@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [GoSchool](https://github.com/Antoine-973/goschool)
 
-- 🌱 I’m currently learning **React,Laravel,Spring**
+- 🌱 I’m currently learning **React, Laravel, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Antoine-973?tab=repositories](https://github.com/Antoine-973?tab=repositories)
 
 - 📫 How to reach me **antoine.saunier.pro@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/mynetwork/](https://www.linkedin.com/mynetwork/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/antoine-saunier-ab1989171/](https://www.linkedin.com/in/antoine-saunier-ab1989171/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
