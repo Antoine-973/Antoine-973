@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoine-973" alt="antoine-973" /></a> </p>
 
-- 🔭 I’m currently working on PlayZ
+- 🔭 I’m currently working on [PlayZ](https://github.com/Antoine-973/playz)
 
-- 🌱 I’m currently learning **JS/TS & React/React Native, PHP, Symfony & Laravel, Java & Spring**
+- 🌱 Currently I'm learning mostly these technologies : **JS/TS, React/React Native, PHP, Symfony, Laravel at my school and Java/Spring at my work**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Antoine-973?tab=repositories](https://github.com/Antoine-973?tab=repositories)
 
