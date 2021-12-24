@@ -33,11 +33,9 @@
 
 <div align="center">
 <!--START_SECTION:waka-->
-```text
 JavaScript   6 hrs 58 mins   █████████████████████▒░░░   85.73 % 
 HTML         1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-```
 <!--END_SECTION:waka-->
 </div>
   
