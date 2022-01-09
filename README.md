@@ -43,10 +43,10 @@ JavaScript   7 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine-973&show_icons=true&locale=en&layout=compact&theme=algolia" alt="antoine-973" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine-973&show_icons=true&locale=en&layout=compact&theme=react" alt="antoine-973" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=antoine-973&show_icons=true&locale=en&theme=algolia" alt="antoine-973" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=antoine-973&show_icons=true&locale=en&theme=react" alt="antoine-973" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoine-973&theme=algolia" alt="antoine-973" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoine-973&theme=react" alt="antoine-973" /></p>
 
 
