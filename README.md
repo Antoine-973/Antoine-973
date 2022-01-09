@@ -31,7 +31,6 @@
 
 <h3 align="left">Activities:</h3>
 
-<div align="center">
 <!--START_SECTION:waka-->
 ```text
 PHP          1 hr 5 mins     ██████████▒░░░░░░░░░░░░░░   40.68 % 
@@ -41,12 +40,11 @@ XML          8 mins          █▒░░░░░░░░░░░░░░░
 JavaScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 <!--END_SECTION:waka-->
-</div>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine-973&show_icons=true&locale=en&layout=compact" alt="antoine-973" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine-973&show_icons=true&locale=en&layout=compact&theme=algolia" alt="antoine-973" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoine-973&show_icons=true&locale=en" alt="antoine-973" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=antoine-973&show_icons=true&locale=en&theme=algolia" alt="antoine-973" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoine-973&" alt="antoine-973" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoine-973&theme=algolia" alt="antoine-973" /></p>
 
 
