@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 PHP          1 hr 5 mins     ██████████▒░░░░░░░░░░░░░░   40.68 % 
 YAML         50 mins         ████████░░░░░░░░░░░░░░░░░   31.47 % 
