@@ -33,13 +33,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
-PHP              1 hr 37 mins    ████████████████▓░░░░░░░░   66.58 % 
-Twig             20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Markdown         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-YAML             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+PHP              5 hrs 27 mins   █████████████████▒░░░░░░░   69.64 % 
+Twig             1 hr 53 mins    ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Markdown         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+YAML             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
   
