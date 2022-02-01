@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
 PHP              6 hrs 45 mins   ██████████████░░░░░░░░░░░   56.16 % 
 Twig             4 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.58 % 
