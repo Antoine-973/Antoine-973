@@ -33,13 +33,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-JavaScript   3 hrs 4 mins    ███████████████▒░░░░░░░░░   60.86 % 
-Twig         34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-HTML         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Bash         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JavaScript   3 hrs 4 mins    ██████████████████████░░░   88.44 % 
+HTML         24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 <!--END_SECTION:waka-->
   
