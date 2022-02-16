@@ -33,13 +33,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
 
-PHP          23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.99 % 
-Docker       18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.99 % 
-JavaScript   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Twig         15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Markdown     14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Total: 1 hr 9 mins
+
+Docker       18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 % 
+JavaScript   18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.99 % 
+Markdown     14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+PHP          8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+HTML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 ```
 <!--END_SECTION:waka-->
   
