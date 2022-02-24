@@ -33,9 +33,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 14 February, 2022 - To: 21 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-
+PHP    1 hr 24 mins    ███████████████▒░░░░░░░░░   60.86 % 
+Twig   31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.86 % 
+YAML   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 ```
 <!--END_SECTION:waka-->
   
