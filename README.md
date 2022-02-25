@@ -33,11 +33,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
-PHP    1 hr 24 mins    ███████████████▒░░░░░░░░░   60.86 % 
-Twig   31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.86 % 
-YAML   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+PHP    4 hrs 8 mins    ████████████████▒░░░░░░░░   65.68 % 
+Twig   1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+YAML   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 <!--END_SECTION:waka-->
   
