@@ -32,13 +32,17 @@
 <h3 align="left">Activities:</h3>
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-PHP    4 hrs 45 mins   ████████████████▓░░░░░░░░   67.22 % 
-Twig   1 hr 42 mins    ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-YAML   36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+PHP        5 hrs 54 mins   █████████████████▓░░░░░░░   70.41 %
+Twig       1 hr 52 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+YAML       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Log        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine-973&show_icons=true&locale=en&layout=compact&theme=react" alt="antoine-973" /></p>
