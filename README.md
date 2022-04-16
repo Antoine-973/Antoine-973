@@ -34,14 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
-
-YAML             1 hr 35 mins    ██████████▒░░░░░░░░░░░░░░   41.17 %
-SQL              1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
-Docker           46 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Text             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-INI              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Bash             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
