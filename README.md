@@ -34,7 +34,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 April 2022 - To: 19 April 2022
+
+YAML   0 secs          ████████████████████████▓   98.74 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
