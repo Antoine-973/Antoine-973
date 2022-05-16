@@ -34,12 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2022 - To: 14 May 2022
-
-JavaScript   38 mins         █████████████▓░░░░░░░░░░░   54.49 %
-HTML         16 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-JSON         15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
