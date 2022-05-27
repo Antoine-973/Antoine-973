@@ -34,7 +34,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 May 2022 - To: 26 May 2022
+
+Twig         31 mins         ███████████████████████░░   91.48 %
+JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 ```
 
 <!--END_SECTION:waka-->
