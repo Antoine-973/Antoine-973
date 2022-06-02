@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
 Twig         1 hr 27 mins    ███████████████░░░░░░░░░░   59.59 %
 YAML         35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 %
