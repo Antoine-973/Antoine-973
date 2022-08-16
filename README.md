@@ -127,14 +127,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
-
-Twig                       11 hrs 19 mins  ██████████▒░░░░░░░░░░░░░░   41.92 %
-PHP                        11 hrs          ██████████▒░░░░░░░░░░░░░░   40.73 %
-Nginx Configuration        1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-YAML                       1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Bash                       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Markdown                   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
