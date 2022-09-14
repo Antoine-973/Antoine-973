@@ -127,7 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 September 2022 - To: 13 September 2022
+
+YAML             18 mins         █████████▒░░░░░░░░░░░░░░░   37.83 %
+PHP              18 mins         █████████▒░░░░░░░░░░░░░░░   37.14 %
+Markdown         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+TypeScript       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+JSON             2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->  
