@@ -127,7 +127,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
 YAML             18 mins         █████████▒░░░░░░░░░░░░░░░   37.83 %
 PHP              18 mins         █████████▒░░░░░░░░░░░░░░░   37.14 %
