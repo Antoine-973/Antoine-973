@@ -127,14 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 September 2022 - To: 14 September 2022
+From: 08 September 2022 - To: 15 September 2022
 
-YAML             18 mins         █████████▒░░░░░░░░░░░░░░░   37.83 %
-PHP              18 mins         █████████▒░░░░░░░░░░░░░░░   37.14 %
-Markdown         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-TypeScript       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-JSON             2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+PHP              49 mins         ███████████████▒░░░░░░░░░   61.33 %
+YAML             18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+Markdown         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+TypeScript       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JSON             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->  
