@@ -127,13 +127,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 September 2022 - To: 25 September 2022
+From: 19 September 2022 - To: 26 September 2022
 
-YAML        24 mins         █████████████▒░░░░░░░░░░░   53.73 %
-Bash        10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-PHP         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-.env file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+YAML   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->  
