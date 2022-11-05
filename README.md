@@ -127,14 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 October 2022 - To: 02 November 2022
+From: 27 October 2022 - To: 03 November 2022
 
-Vue.js           1 hr 41 mins    ███████████████░░░░░░░░░░   60.19 %
-YAML             28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-Docker           14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Markdown         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-GitIgnore file   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Zephir           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+YAML             28 mins         ██████████▒░░░░░░░░░░░░░░   41.75 %
+Docker           14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+Markdown         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+GitIgnore file   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Zephir           5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+PHP              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->  
