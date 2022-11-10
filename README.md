@@ -127,14 +127,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 07 November 2022
-
-YAML             28 mins         ██████████▒░░░░░░░░░░░░░░   41.75 %
-Docker           14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
-Markdown         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-GitIgnore file   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Zephir           5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-PHP              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
