@@ -127,7 +127,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 November 2022 - To: 28 November 2022
+
+Markdown         0 secs          ████████████████████████▓   98.82 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->  
