@@ -127,13 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
-JavaScript   1 hr            ███████████████████▓░░░░░   78.94 %
-.env file    8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-YAML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Bash         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JavaScript   43 mins         ████████████████░░░░░░░░░   64.04 %
+.env file    8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Vue.js       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+YAML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Bash         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->  
