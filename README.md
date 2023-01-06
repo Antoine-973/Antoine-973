@@ -127,14 +127,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-JavaScript   43 mins         ████████████████░░░░░░░░░   64.04 %
-.env file    8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-Vue.js       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-YAML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Bash         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript   29 mins         ███████████████████▒░░░░░   77.88 %
+Vue.js       8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
 ```
 
 <!--END_SECTION:waka-->  
