@@ -127,10 +127,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
-
-JavaScript   29 mins         ███████████████████▒░░░░░   77.88 %
-Vue.js       8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
