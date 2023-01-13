@@ -127,7 +127,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 January 2023 - To: 11 January 2023
+
+Markdown         0 secs          ████████████████████████▒   97.67 %
+GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->  
