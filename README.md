@@ -127,10 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
-Markdown         0 secs          ████████████████████████▒   97.67 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+YAML             34 mins         █████████████░░░░░░░░░░░░   51.67 %
+PHP              22 mins         ████████▒░░░░░░░░░░░░░░░░   33.63 %
+JSON             7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Bash             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->  
