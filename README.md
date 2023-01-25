@@ -127,14 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-PHP              9 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   41.29 %
-Vue.js           9 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.10 %
-JavaScript       1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-YAML             1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Vue.js           8 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   44.80 %
+PHP              8 hrs 46 mins   ███████████░░░░░░░░░░░░░░   44.24 %
+JavaScript       1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+YAML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+AUTO_DETECTED    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->  
