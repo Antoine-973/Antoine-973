@@ -127,14 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
-Vue.js              10 hrs 16 mins  ████████▒░░░░░░░░░░░░░░░░   33.29 %
-PHP                 8 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   27.61 %
-JavaScript          6 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
-YAML                2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Bash                37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Text                35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Vue.js                     10 hrs 35 mins  ███████▒░░░░░░░░░░░░░░░░░   29.15 %
+PHP                        7 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+JavaScript                 7 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+YAML                       5 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Bash                       1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Caddyfile                  54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->  
