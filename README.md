@@ -127,14 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 February 2023 - To: 14 February 2023
+From: 08 February 2023 - To: 15 February 2023
 
-Vue.js                     11 hrs 19 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
-YAML                       9 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-JavaScript                 8 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-PHP                        6 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Bash                       1 hr 57 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-.env file                  1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+YAML                       9 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+Vue.js                     9 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+JavaScript                 7 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+PHP                        5 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Bash                       2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+.env file                  1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->  
