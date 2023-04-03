@@ -127,7 +127,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2023 - To: 31 March 2023
+From: 25 March 2023 - To: 01 April 2023
 
 XML              1 hr 17 mins    ██████████████▒░░░░░░░░░░   56.92 %
 Java             17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
