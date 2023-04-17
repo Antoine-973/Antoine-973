@@ -127,7 +127,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2023 - To: 14 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
 JavaScript       8 hrs 49 mins   ███████████████▓░░░░░░░░░   62.58 %
 JSON             2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
