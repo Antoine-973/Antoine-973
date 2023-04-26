@@ -127,14 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
-TypeScript     18 hrs 52 mins  ██████████████████████▓░░   90.34 %
-Java           49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-CSS            31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JavaScript     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-HTTP Request   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Properties     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript     15 hrs 19 mins  ██████████████████▓░░░░░░   74.71 %
+Java           3 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+JavaScript     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+CSS            31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Properties     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+HTTP Request   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->  
