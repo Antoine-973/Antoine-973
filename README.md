@@ -127,14 +127,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 24 April 2023 - To: 01 May 2023
 
-TypeScript   11 hrs 25 mins  ██████████████░░░░░░░░░░░   56.56 %
-Java         5 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-Properties   1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-JavaScript   1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-SQL          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-.env file    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   11 hrs 8 mins   ████████████████▓░░░░░░░░   67.02 %
+Java         2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Properties   1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+JavaScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+SQL          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->  
