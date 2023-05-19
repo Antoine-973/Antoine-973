@@ -127,13 +127,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2023 - To: 16 May 2023
+From: 10 May 2023 - To: 17 May 2023
 
-TypeScript       2 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-Java             1 hr 14 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-YAML             1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-Docker           1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Properties       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+TypeScript       2 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.05 %
+Java             1 hr 14 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+YAML             52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Docker           26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Properties       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->  
