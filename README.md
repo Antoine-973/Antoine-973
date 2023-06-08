@@ -127,9 +127,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-No activity tracked
+TypeScript       2 hrs 17 mins   █████████████████░░░░░░░░   68.25 %
+Markdown         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+.env file        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Text             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->  
