@@ -127,13 +127,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2023 - To: 11 July 2023
+From: 05 July 2023 - To: 12 July 2023
 
-YAML             2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   24.22 %
-Docker           2 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
-Markdown         1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-JSON             1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-TypeScript       1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+TypeScript       3 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   38.19 %
+YAML             2 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+Text             1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Markdown         49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Prisma           38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->  
