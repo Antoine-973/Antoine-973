@@ -127,13 +127,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 11 July 2023 - To: 18 July 2023
 
-TypeScript       10 hrs 14 mins  █████████████▒░░░░░░░░░░░   53.37 %
-JavaScript       3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Prisma           1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Text             1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-YAML             53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+TypeScript   9 hrs 30 mins   ███████████████░░░░░░░░░░   59.70 %
+JavaScript   3 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+Prisma       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Text         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->  
